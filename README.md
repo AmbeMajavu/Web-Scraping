@@ -1,5 +1,5 @@
 
-Find an itereatsing website to perform web scrapping!!
+Find an interesting website to perform web scrapping!!
 
 ## Requirements
 
